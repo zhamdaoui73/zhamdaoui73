@@ -2,7 +2,7 @@
 - 👀 I’m interested in Node.js
 - 🌱 I’m currently learning Java and HTML5
 - 💞️ I’m looking to collaborate on Mineraft xd
-- 📫 DM me on Discord: Zakaria H.#6368
+- 📫 DM me on Discord: Zaka#6368
 
 <!---
 zhamdaoui73/zhamdaoui73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
