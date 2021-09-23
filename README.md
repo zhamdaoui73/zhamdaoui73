@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=zhamdaoui73.zhamdaoui73)
+<p> <img src="https://komarev.com/ghpvc/?username=zhamdaoui73" alt="zhamdaoui73" /> </p>
 
 <br />
 
