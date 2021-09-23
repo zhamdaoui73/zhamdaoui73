@@ -19,7 +19,7 @@ hi, i'm [Zakaria Hamdaoui](https://zakadev.me/), a passionate self-taught full s
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
   
-- 💬 dm me for any help in Discord;
+- 💬 dm me for any help in Discord: Zaka#6368
 
 **languages and tools:**  
 
